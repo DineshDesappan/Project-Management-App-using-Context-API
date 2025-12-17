@@ -159,13 +159,6 @@ Components are small, focused, and reusable:
 - `Input.jsx` - Flexible input/textarea component
 - `Modal.jsx` - Error handling modal using `forwardRef`
 
-## 🛠️ Technologies Used
-
-- **React 18.3.1** - UI library
-- **Vite 4.5.14** - Build tool and dev server
-- **TailwindCSS 3.4.17** - Utility-first CSS framework
-- **PostCSS** - CSS processing
-- **ESLint** - Code linting
 
 ## 📚 Learning Resources
 
